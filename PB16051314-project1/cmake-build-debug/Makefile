@@ -124,6 +124,32 @@ test/fast:
 .PHONY : test/fast
 
 #=============================================================================
+# Target rules for targets named PB16051314_project1
+
+# Build rule for target.
+PB16051314_project1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PB16051314_project1
+.PHONY : PB16051314_project1
+
+# fast build rule for target.
+PB16051314_project1/fast:
+	$(MAKE) -f CMakeFiles/PB16051314_project1.dir/build.make CMakeFiles/PB16051314_project1.dir/build
+.PHONY : PB16051314_project1/fast
+
+#=============================================================================
+# Target rules for targets named merge_sort
+
+# Build rule for target.
+merge_sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 merge_sort
+.PHONY : merge_sort
+
+# fast build rule for target.
+merge_sort/fast:
+	$(MAKE) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/build
+.PHONY : merge_sort/fast
+
+#=============================================================================
 # Target rules for targets named heap_sort
 
 # Build rule for target.
@@ -148,19 +174,6 @@ quick_sort: cmake_check_build_system
 quick_sort/fast:
 	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/build
 .PHONY : quick_sort/fast
-
-#=============================================================================
-# Target rules for targets named PB16051314_project1
-
-# Build rule for target.
-PB16051314_project1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 PB16051314_project1
-.PHONY : PB16051314_project1
-
-# fast build rule for target.
-PB16051314_project1/fast:
-	$(MAKE) -f CMakeFiles/PB16051314_project1.dir/build.make CMakeFiles/PB16051314_project1.dir/build
-.PHONY : PB16051314_project1/fast
 
 ex1/source/heap_sort.o: ex1/source/heap_sort.cpp.o
 
@@ -188,6 +201,33 @@ ex1/source/heap_sort.s: ex1/source/heap_sort.cpp.s
 ex1/source/heap_sort.cpp.s:
 	$(MAKE) -f CMakeFiles/heap_sort.dir/build.make CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.s
 .PHONY : ex1/source/heap_sort.cpp.s
+
+ex1/source/merge_sort.o: ex1/source/merge_sort.cpp.o
+
+.PHONY : ex1/source/merge_sort.o
+
+# target to build an object file
+ex1/source/merge_sort.cpp.o:
+	$(MAKE) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/ex1/source/merge_sort.cpp.o
+.PHONY : ex1/source/merge_sort.cpp.o
+
+ex1/source/merge_sort.i: ex1/source/merge_sort.cpp.i
+
+.PHONY : ex1/source/merge_sort.i
+
+# target to preprocess a source file
+ex1/source/merge_sort.cpp.i:
+	$(MAKE) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/ex1/source/merge_sort.cpp.i
+.PHONY : ex1/source/merge_sort.cpp.i
+
+ex1/source/merge_sort.s: ex1/source/merge_sort.cpp.s
+
+.PHONY : ex1/source/merge_sort.s
+
+# target to generate assembly for a file
+ex1/source/merge_sort.cpp.s:
+	$(MAKE) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/ex1/source/merge_sort.cpp.s
+.PHONY : ex1/source/merge_sort.cpp.s
 
 ex1/source/quick_sort.o: ex1/source/quick_sort.cpp.o
 
@@ -279,12 +319,16 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... test"
+	@echo "... PB16051314_project1"
+	@echo "... merge_sort"
 	@echo "... heap_sort"
 	@echo "... quick_sort"
-	@echo "... PB16051314_project1"
 	@echo "... ex1/source/heap_sort.o"
 	@echo "... ex1/source/heap_sort.i"
 	@echo "... ex1/source/heap_sort.s"
+	@echo "... ex1/source/merge_sort.o"
+	@echo "... ex1/source/merge_sort.i"
+	@echo "... ex1/source/merge_sort.s"
 	@echo "... ex1/source/quick_sort.o"
 	@echo "... ex1/source/quick_sort.i"
 	@echo "... ex1/source/quick_sort.s"

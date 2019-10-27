@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="PB16051314_project1" targetName="merge_sort" />
       <config projectName="PB16051314_project1" targetName="test" />
       <config projectName="PB16051314_project1" targetName="quick_sort" />
       <config projectName="PB16051314_project1" targetName="heap_sort" />
@@ -15,47 +16,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbdad5d0-6faf-445d-b190-1ca79a89ceb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_lab_gnj.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/quick_sort" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/quick_sort" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/source/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/source/test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="e#41#59#0" expanded="true" />
               </folding>
@@ -80,27 +50,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_15.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_13.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/time.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/input/input_strings.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-94492">
+            <state relative-caret-position="-89908">
               <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="81" column="1" selection-start-line="10" selection-start-column="18" selection-end-line="81" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/merge_sort.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="e#41#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_15.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -108,7 +94,31 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_3.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,9 +127,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp" />
-        <option value="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/PB16051314-project1/ex1/source/test.cpp" />
         <option value="$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp" />
+        <option value="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/PB16051314-project1/ex1/source/merge_sort.cpp" />
       </list>
     </option>
   </component>
@@ -128,7 +139,9 @@
     <option name="width" value="1217" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -171,22 +184,6 @@
               <item name="Algorithm_lab_gnj" type="462c0819:PsiDirectoryNode" />
               <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
               <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-              <item name="1heap_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm_lab_gnj" type="462c0819:PsiDirectoryNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm_lab_gnj" type="462c0819:PsiDirectoryNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,13 +211,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.heap_sort">
+  <component name="RunManager" selected="Application.merge_sort">
     <configuration name="PB16051314_project1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PB16051314_project1" TARGET_NAME="PB16051314_project1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PB16051314_project1" RUN_TARGET_NAME="PB16051314_project1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="heap_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PB16051314_project1" TARGET_NAME="heap_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PB16051314_project1" RUN_TARGET_NAME="heap_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PB16051314_project1" TARGET_NAME="merge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PB16051314_project1" RUN_TARGET_NAME="merge_sort">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -237,6 +239,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.heap_sort" />
+      <item itemvalue="Application.merge_sort" />
       <item itemvalue="Application.PB16051314_project1" />
       <item itemvalue="Application.quick_sort" />
       <item itemvalue="Application.test" />
@@ -253,12 +256,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571883539705</updated>
       <workItem from="1571883540830" duration="3209000" />
-      <workItem from="1572138138394" duration="3112000" />
+      <workItem from="1572138138394" duration="5061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6321000" />
+    <option name="totallyTimeSpent" value="8270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="0" width="1217" height="800" extended-state="0" />
@@ -279,7 +282,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -294,21 +297,49 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp</url>
-          <line>101</line>
+          <line>102</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp</url>
-          <line>95</line>
+          <line>96</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp</url>
+          <line>92</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="RLIMIT_DATA" language="ObjectiveC" />
+        <watch expression="Data[0]" language="ObjectiveC" />
+        <watch expression="A" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>A</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Data[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>RLIMIT_DATA</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/Makefile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -341,20 +372,6 @@
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1/result_15.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -365,9 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_7.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -377,12 +391,11 @@
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/time.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_13.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -390,32 +403,72 @@
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_13.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_11.txt">
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_5.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_11.txt">
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_5.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/input/input_strings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89908">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="e#41#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/1heap_sort/result_15.txt">
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="81" column="1" selection-start-line="10" selection-start-column="18" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_15.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_15.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/input/input_strings.txt">
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB16051314-project1/ex1/source/merge_sort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94492">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="290">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#41#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
