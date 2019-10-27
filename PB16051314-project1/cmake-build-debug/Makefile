@@ -124,6 +124,19 @@ test/fast:
 .PHONY : test/fast
 
 #=============================================================================
+# Target rules for targets named count_sort
+
+# Build rule for target.
+count_sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 count_sort
+.PHONY : count_sort
+
+# fast build rule for target.
+count_sort/fast:
+	$(MAKE) -f CMakeFiles/count_sort.dir/build.make CMakeFiles/count_sort.dir/build
+.PHONY : count_sort/fast
+
+#=============================================================================
 # Target rules for targets named PB16051314_project1
 
 # Build rule for target.
@@ -174,6 +187,33 @@ quick_sort: cmake_check_build_system
 quick_sort/fast:
 	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/build
 .PHONY : quick_sort/fast
+
+ex1/source/count_sort.o: ex1/source/count_sort.cpp.o
+
+.PHONY : ex1/source/count_sort.o
+
+# target to build an object file
+ex1/source/count_sort.cpp.o:
+	$(MAKE) -f CMakeFiles/count_sort.dir/build.make CMakeFiles/count_sort.dir/ex1/source/count_sort.cpp.o
+.PHONY : ex1/source/count_sort.cpp.o
+
+ex1/source/count_sort.i: ex1/source/count_sort.cpp.i
+
+.PHONY : ex1/source/count_sort.i
+
+# target to preprocess a source file
+ex1/source/count_sort.cpp.i:
+	$(MAKE) -f CMakeFiles/count_sort.dir/build.make CMakeFiles/count_sort.dir/ex1/source/count_sort.cpp.i
+.PHONY : ex1/source/count_sort.cpp.i
+
+ex1/source/count_sort.s: ex1/source/count_sort.cpp.s
+
+.PHONY : ex1/source/count_sort.s
+
+# target to generate assembly for a file
+ex1/source/count_sort.cpp.s:
+	$(MAKE) -f CMakeFiles/count_sort.dir/build.make CMakeFiles/count_sort.dir/ex1/source/count_sort.cpp.s
+.PHONY : ex1/source/count_sort.cpp.s
 
 ex1/source/heap_sort.o: ex1/source/heap_sort.cpp.o
 
@@ -319,10 +359,14 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... test"
+	@echo "... count_sort"
 	@echo "... PB16051314_project1"
 	@echo "... merge_sort"
 	@echo "... heap_sort"
 	@echo "... quick_sort"
+	@echo "... ex1/source/count_sort.o"
+	@echo "... ex1/source/count_sort.i"
+	@echo "... ex1/source/count_sort.s"
 	@echo "... ex1/source/heap_sort.o"
 	@echo "... ex1/source/heap_sort.i"
 	@echo "... ex1/source/heap_sort.s"

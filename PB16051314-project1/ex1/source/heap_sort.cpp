@@ -92,7 +92,7 @@ int main(){
         HEAPSORT(Data, count);
 
 //有一个小问题：为什么这里路经变了会影响数据的值...
-        strcpy(output, "../ex1/output/1heap_sort/result_");
+        strcpy(output, "../ex1/output/heap_sort/result_");
         sprintf(itc,"%d",N);
         strcat(output, itc);
         strcat(output, ".txt");
