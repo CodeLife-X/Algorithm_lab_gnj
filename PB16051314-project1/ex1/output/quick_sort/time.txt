@@ -1,0 +1,7 @@
+file result_15 running time:0.003756 s
+file result_13 running time:0.000794 s
+file result_11 running time:0.000166 s
+file result_9 running time:0.000036 s
+file result_7 running time:0.000007 s
+file result_5 running time:0.000003 s
+file result_3 running time:0.000001 s

@@ -10,6 +10,7 @@
 #include <math.h>
 #include <string.h>
 #include <cstring>
+#include<time.h>
 
 using namespace std;
 
@@ -88,8 +89,12 @@ int main(){
             fscanf(fpRead, "%d\n", &Data[i]);
         }
         rewind(fpRead);
-
+        
+        clock_t startTime,endTime;
+        startTime = clock();
         HEAPSORT(Data, count);
+        endTime = clock();
+
 
 //有一个小问题：为什么这里路经变了会影响数据的值...
         strcpy(output, "../ex1/output/heap_sort/result_");
@@ -104,6 +109,12 @@ int main(){
             fprintf(fp, "%d\n", Data[i]);
         }
 
+        char ttime[]="../ex1/output/heap_sort/time.txt";
+        FILE *tt = NULL;
+        tt = fopen(ttime, "a+");
+        fprintf(tt, "file result_%d running time:%lf s\n", N, (double)(endTime - startTime) / CLOCKS_PER_SEC);
+
+        
         N = N - 2;
     }
     return 0;

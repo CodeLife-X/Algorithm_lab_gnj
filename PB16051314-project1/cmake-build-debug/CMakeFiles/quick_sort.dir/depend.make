@@ -3,5 +3,3 @@
 
 CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o: ../ex1/source/quick_sort.cpp
 
-CMakeFiles/quick_sort.dir/ex1/source/test.cpp.o: ../ex1/source/test.cpp
-

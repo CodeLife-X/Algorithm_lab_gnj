@@ -10,6 +10,8 @@
 #include <string.h>
 #include <cstring>
 
+#include<time.h>
+
 using namespace std;
 
 int PARTITION(int A[], int p, int r){
@@ -62,7 +64,12 @@ int main(){
         }
         rewind(fpRead);
 
+        clock_t startTime,endTime;
+        startTime = clock();
         quick_sort(Data, 0, count-1);
+        endTime = clock();
+
+//        printf(,);
 
         strcpy(output, "../ex1/output/quick_sort/result_");
         sprintf(itc,"%d",N);
@@ -71,10 +78,14 @@ int main(){
 
         FILE *fp = NULL;
         fp = fopen(output, "wt");
-
         for (int i = 0; i < count; i++) {
             fprintf(fp, "%d\n", Data[i]);
         }
+
+        char ttime[]="../ex1/output/quick_sort/time.txt";
+        FILE *tt = NULL;
+        tt = fopen(ttime, "a+");
+        fprintf(tt, "file result_%d running time:%lf s\n", N, (double)(endTime - startTime) / CLOCKS_PER_SEC);
 
         N = N - 2;
     }
