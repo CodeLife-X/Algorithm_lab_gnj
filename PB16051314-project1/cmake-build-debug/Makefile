@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1
+CMAKE_SOURCE_DIR = /Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug/CMakeFiles /Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/cmake-build-debug/CMakeFiles /Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named heap_sort
+
+# Build rule for target.
+heap_sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 heap_sort
+.PHONY : heap_sort
+
+# fast build rule for target.
+heap_sort/fast:
+	$(MAKE) -f CMakeFiles/heap_sort.dir/build.make CMakeFiles/heap_sort.dir/build
+.PHONY : heap_sort/fast
+
+#=============================================================================
 # Target rules for targets named quick_sort
 
 # Build rule for target.
@@ -135,6 +161,33 @@ PB16051314_project1: cmake_check_build_system
 PB16051314_project1/fast:
 	$(MAKE) -f CMakeFiles/PB16051314_project1.dir/build.make CMakeFiles/PB16051314_project1.dir/build
 .PHONY : PB16051314_project1/fast
+
+ex1/source/heap_sort.o: ex1/source/heap_sort.cpp.o
+
+.PHONY : ex1/source/heap_sort.o
+
+# target to build an object file
+ex1/source/heap_sort.cpp.o:
+	$(MAKE) -f CMakeFiles/heap_sort.dir/build.make CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.o
+.PHONY : ex1/source/heap_sort.cpp.o
+
+ex1/source/heap_sort.i: ex1/source/heap_sort.cpp.i
+
+.PHONY : ex1/source/heap_sort.i
+
+# target to preprocess a source file
+ex1/source/heap_sort.cpp.i:
+	$(MAKE) -f CMakeFiles/heap_sort.dir/build.make CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.i
+.PHONY : ex1/source/heap_sort.cpp.i
+
+ex1/source/heap_sort.s: ex1/source/heap_sort.cpp.s
+
+.PHONY : ex1/source/heap_sort.s
+
+# target to generate assembly for a file
+ex1/source/heap_sort.cpp.s:
+	$(MAKE) -f CMakeFiles/heap_sort.dir/build.make CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.s
+.PHONY : ex1/source/heap_sort.cpp.s
 
 ex1/source/quick_sort.o: ex1/source/quick_sort.cpp.o
 
@@ -169,7 +222,7 @@ ex1/source/test.o: ex1/source/test.cpp.o
 
 # target to build an object file
 ex1/source/test.cpp.o:
-	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/ex1/source/test.cpp.o
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/ex1/source/test.cpp.o
 .PHONY : ex1/source/test.cpp.o
 
 ex1/source/test.i: ex1/source/test.cpp.i
@@ -178,7 +231,7 @@ ex1/source/test.i: ex1/source/test.cpp.i
 
 # target to preprocess a source file
 ex1/source/test.cpp.i:
-	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/ex1/source/test.cpp.i
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/ex1/source/test.cpp.i
 .PHONY : ex1/source/test.cpp.i
 
 ex1/source/test.s: ex1/source/test.cpp.s
@@ -187,7 +240,7 @@ ex1/source/test.s: ex1/source/test.cpp.s
 
 # target to generate assembly for a file
 ex1/source/test.cpp.s:
-	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/ex1/source/test.cpp.s
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/ex1/source/test.cpp.s
 .PHONY : ex1/source/test.cpp.s
 
 main.o: main.cpp.o
@@ -225,8 +278,13 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... test"
+	@echo "... heap_sort"
 	@echo "... quick_sort"
 	@echo "... PB16051314_project1"
+	@echo "... ex1/source/heap_sort.o"
+	@echo "... ex1/source/heap_sort.i"
+	@echo "... ex1/source/heap_sort.s"
 	@echo "... ex1/source/quick_sort.o"
 	@echo "... ex1/source/quick_sort.i"
 	@echo "... ex1/source/quick_sort.s"

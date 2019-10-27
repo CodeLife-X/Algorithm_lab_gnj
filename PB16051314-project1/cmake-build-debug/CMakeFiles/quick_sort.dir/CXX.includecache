@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/ex1/source/quick_sort.cpp
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/ex1/source/quick_sort.cpp
 stdio.h
 -
 stdlib.h
@@ -23,4 +23,6 @@ string.h
 -
 cstring
 -
+
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/ex1/source/test.cpp
 

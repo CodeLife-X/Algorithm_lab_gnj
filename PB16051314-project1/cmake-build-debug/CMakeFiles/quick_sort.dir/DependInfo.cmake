@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/ex1/source/quick_sort.cpp" "/Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o"
-  "/Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/ex1/source/test.cpp" "/Users/yishunxu/University/19_autumn/Algorithm/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/test.cpp.o"
+  "/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/ex1/source/quick_sort.cpp" "/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

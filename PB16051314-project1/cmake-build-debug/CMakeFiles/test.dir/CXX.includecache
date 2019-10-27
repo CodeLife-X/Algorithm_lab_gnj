@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project1/ex1/source/test.cpp
+stdio.h
+-
+stdlib.h
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+math.h
+-
+string.h
+-
+cstring
+-
+
