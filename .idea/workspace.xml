@@ -10,153 +10,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbdad5d0-6faf-445d-b190-1ca79a89ceb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex1/input/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex1/output/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex1/output/time.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex1/source/BST.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex2/input/inputA.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex2/input/inputB.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex2/output/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex2/output/time.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB16051314-project2/ex2/source/list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_lab_gnj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_lab_gnj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/PB16051314-project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/PB16051314-project1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/ex1/source/count_sort.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/count_sort.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/heap_sort.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/ex1/source/merge_sort.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/merge_sort.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/ex1/source/test.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/CMakeFiles/test.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/PB16051314_project1.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/input/input_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/input/input_strings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/result_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/count_sort/time.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/result_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/heap_sort/time.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/result_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/merge_sort/time.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/result_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/output/quick_sort/time.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/source/count_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/source/count_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/source/heap_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/source/merge_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/source/merge_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/ex1/source/quick_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB16051314-project1/实验报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project1/实验报告.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/ex1/source/Fibonacci_heap.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Fibonacci_heap.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/PB16051314_project3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/ex1/source/binary_heap.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/binary_heap.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/ex1/source/heap_sort.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/heap_sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/ex1/source/test.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/CMakeFiles/test.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/PB16051314_project3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/PB16051314_project3.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/ex1/output/Fibonacci_heap/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/ex1/output/Fibonacci_heap/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PB16051314-project3/ex1/output/Fibonacci_heap/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PB16051314-project3/ex1/output/Fibonacci_heap/time.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -181,6 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -197,6 +111,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/Fibonacci_heap" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heapsort" type="CMakeRunConfiguration" factoryName="Application" activateToolWindowBeforeRun="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/PB16051314-project3/cmake-build-debug/heap_sort" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -210,7 +141,7 @@
       <workItem from="1571883540830" duration="3209000" />
       <workItem from="1572138138394" duration="8950000" />
       <workItem from="1572592125973" duration="173000" />
-      <workItem from="1575079398323" duration="173000" />
+      <workItem from="1575079398323" duration="1487000" />
     </task>
     <servers />
   </component>
