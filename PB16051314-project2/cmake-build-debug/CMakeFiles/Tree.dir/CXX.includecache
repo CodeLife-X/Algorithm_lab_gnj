@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/ex1/source/Tree.cpp
+iostream
+-
+

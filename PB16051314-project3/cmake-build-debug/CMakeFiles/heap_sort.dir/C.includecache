@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a007/Downloads/ALo_lab/PB16051314-project3/ex1/source/heap_sort.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+time.h
+-
+

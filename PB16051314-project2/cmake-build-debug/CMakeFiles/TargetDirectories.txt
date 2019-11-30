@@ -1,0 +1,8 @@
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/cccc.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/list.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/BST.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/Tree.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/2.dir
+/Users/yishunxu/University/19_autumn/Algorithm/Algorithm_lab_gnj/PB16051314-project2/cmake-build-debug/CMakeFiles/PB16051314_project2.dir

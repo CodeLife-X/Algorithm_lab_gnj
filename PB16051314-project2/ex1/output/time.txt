@@ -1,0 +1,5 @@
+N = 5 running time:0.000002 s
+N = 9 running time:0.000002 s
+N = 13 running time:0.000005 s
+N = 17 running time:0.000008 s
+N = 21 running time:0.000014 s

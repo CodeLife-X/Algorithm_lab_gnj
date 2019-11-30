@@ -1,0 +1,25 @@
+file in data1 insert 20 num total time is 0.000016
+file in data1 DECREASE-KEY 20 num total time is 0.000014
+file in data1 delete 20 num total time is 0.000043
+file in data1 EXTRACT-MIN 20 num total time is 0.000022
+
+file in data2 insert 20 num total time is 0.000016
+file in data2 DECREASE-KEY 20 num total time is 0.000014
+file in data2 delete 20 num total time is 0.000034
+file in data2 EXTRACT-MIN 20 num total time is 0.000025
+
+file in data3 insert 20 num total time is 0.000011
+file in data3 DECREASE-KEY 20 num total time is 0.000009
+file in data3 delete 20 num total time is 0.000030
+file in data3 EXTRACT-MIN 20 num total time is 0.000023
+
+file in data4 insert 20 num total time is 0.000011
+file in data4 DECREASE-KEY 20 num total time is 0.000012
+file in data4 delete 20 num total time is 0.000036
+file in data4 EXTRACT-MIN 20 num total time is 0.000029
+
+file in data5 insert 20 num total time is 0.000014
+file in data5 DECREASE-KEY 20 num total time is 0.000010
+file in data5 delete 20 num total time is 0.000043
+file in data5 EXTRACT-MIN 20 num total time is 0.000027
+

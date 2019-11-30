@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="PB16051314_project1" targetName="quick_sort" />
-      <config projectName="PB16051314_project1" targetName="PB16051314_project1" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -12,51 +9,163 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55406136-760f-4fac-a4f0-26c4539f5aa7" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <list default="true" id="55406136-760f-4fac-a4f0-26c4539f5aa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex1/input/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex1/output/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex1/output/time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex1/source/BST.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex2/input/inputA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex2/input/inputB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex2/output/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex2/output/time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB16051314-project2/ex2/source/list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Algorithm_lab_gnj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Algorithm_lab_gnj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PB16051314-project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PB16051314-project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PB16051314_project1.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/ex1/source/count_sort.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/count_sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/ex1/source/heap_sort.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heap_sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/ex1/source/merge_sort.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/merge_sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/ex1/source/quick_sort.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/ex1/source/test.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PB16051314_project1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PB16051314_project1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/input/input_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/input/input_strings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/result_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/count_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/count_sort/time.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/result_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/heap_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/heap_sort/time.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/result_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/merge_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/merge_sort/time.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/result_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/result_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/output/quick_sort/time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/output/quick_sort/time.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/source/count_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/source/count_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/source/heap_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/source/heap_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/source/merge_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/source/merge_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1/source/quick_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex1/source/quick_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/实验报告.docx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="e#40#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex1/source/quick_sort.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-              <folding>
-                <element signature="e#40#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex1/input/input_strings.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -65,74 +174,14 @@
       <find>12992</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ex1/input/input_strings.txt" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/ex1/source/test.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/ex1/output/quick_sort/result_3.txt" />
-        <option value="$PROJECT_DIR$/ex1/source/quick_sort.cpp" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="width" value="1217" />
-    <option name="height" value="800" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PB16051314_project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PB16051314-project1" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1UEyc0YOyzh7Mh94d2wCLc0T0uE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,22 +202,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.quick_sort">
-    <configuration name="PB16051314_project1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PB16051314_project1" TARGET_NAME="PB16051314_project1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PB16051314_project1" RUN_TARGET_NAME="PB16051314_project1">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quick_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PB16051314_project1" TARGET_NAME="quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PB16051314_project1" RUN_TARGET_NAME="quick_sort">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.PB16051314_project1" />
-      <item itemvalue="Application.quick_sort" />
-    </list>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -181,40 +214,31 @@
       <updated>1571657348303</updated>
       <workItem from="1571657349518" duration="3078000" />
       <workItem from="1571738073796" duration="7061000" />
+      <workItem from="1572593241766" duration="559000" />
+      <workItem from="1573732376321" duration="21000" />
+      <workItem from="1573782158322" duration="2288000" />
+      <workItem from="1573804160157" duration="245000" />
+      <workItem from="1573811631777" duration="848000" />
+      <workItem from="1573815708032" duration="1062000" />
+      <workItem from="1573823233694" duration="646000" />
+      <workItem from="1574052821895" duration="1000" />
+      <workItem from="1574936126069" duration="505000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10139000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="63" y="0" width="1217" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16510639" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32909605" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,104 +269,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/source/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iosfwd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="147" column="61" selection-start-line="147" selection-start-column="61" selection-end-line="147" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/input/input_strings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1560" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_13.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17107">
-          <caret line="6913" column="5" lean-forward="true" selection-start-line="6913" selection-start-column="5" selection-end-line="6913" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_15.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="32761" column="5" lean-forward="true" selection-start-line="32761" selection-start-column="5" selection-end-line="32761" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/output/quick_sort/result_11.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/source/quick_sort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
